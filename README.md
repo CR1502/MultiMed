@@ -26,7 +26,7 @@ MultiMed is a machine learning project that integrates multiple Artificial Neura
 ## Datasets
 - `breast_cancer.csv`
 - `diabetes.csv`
-- Parkinson’s data
+- `Parkinson’s data`
 
 These datasets are included in the repository for training and testing purposes.
 
